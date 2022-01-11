@@ -1,0 +1,37 @@
+{
+    "name": "Theca",
+    "symbol": "THECA",
+    "type": "SPL",
+    "decimals": 6,
+    "description": "Theca is the decentralized project that aims to spread knowledge, without geographical, linguistic or cultural limits. Theca will provide the community of authors, readers and publishers with an intermediary-free literary.",
+    "website": "https://theca.org/",
+    "explorer": "https://explorer.solana.com/address/D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q",
+    "status": "active",
+    "id": "D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/theca_org"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/theca_org"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/theca/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/theca"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/theca-labs/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/YfbVenPbvq"
+        }
+    ]
+}
